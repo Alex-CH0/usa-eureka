@@ -6,6 +6,8 @@ spring:
     name: eur # 서비스 ID
 # Eureka
 eureka:
+  server:
+    eviction-interval-time-in-ms: 10
   instance:
     hostname: 127.0.0.1
   client:
