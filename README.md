@@ -1,7 +1,7 @@
 # Eureka Server
 
 MSA로 구성된 환경에서 로드밸런싱 및 서비스 디스커버리를 담당하는 서버.
-여러 Micro Service의 IP, Port, Instance ID를 가지고 관리해준다. 
+여러 Micro Service의 IP, Port, Instance ID를 가지고 관리한다. 
 
 ## Configuration
 
