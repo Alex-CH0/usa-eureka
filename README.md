@@ -51,4 +51,7 @@ IP: localhost(추후 변경 예정)
 
 [Order Micro Service Github Link](https://github.com/Alex-CH0/usa-order-service)
 
+[Finance(빗썸 API) Micro Service Github Link](https://github.com/Alex-CH0/usa-finance-service)
+
+
 
